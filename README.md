@@ -18,7 +18,7 @@ The admin panel allows adding, deleting, and restocking products.
 python pharmacy_cli.py
 
 
-##  Roadmap
+#  Roadmap
 - Use `Decimal` for money calculations
 - Switch to product IDs instead of names
 - Add database (SQLite) for persistence
