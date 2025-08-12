@@ -16,7 +16,7 @@ The admin panel allows adding, deleting, and restocking products.
 2. In your terminal or PowerShell:
 ```bash
 python pharmacy_cli.py
-
+```
 ## Roadmap
 - Use `Decimal` for money calculations
 - Switch to product IDs instead of names
